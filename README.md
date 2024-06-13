@@ -9,6 +9,7 @@ Update Project ID in providers.tf
 ### Terraform 
 
 -Terraform init
+
 -Terraform apply
 
 
