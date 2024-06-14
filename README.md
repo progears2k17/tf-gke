@@ -6,6 +6,8 @@ Create file sa.json in root directory, a service account with all the required p
 
 Update Project ID in providers.tf
 
+Update Project ID in variables.tf
+
 ### Terraform 
 
 -Terraform init
